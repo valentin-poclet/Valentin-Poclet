@@ -1,36 +1,47 @@
-# Nombres premiers
+# Bonjour, moi c'est Valentin Poclet 👋
 
-Un [nombre premier](https://en.wikipedia.org/wiki/Prime_number) est un entier naturel qui admet exactement deux diviseurs distincts entiers et positifs. Ces deux diviseurs sont 1 et le nombre considéré. L'objectif est d'écrire du code qui permet de vérifier si un nombre est premier ou pas.
+Étudiant ingénieur à ESIEE Paris, spécialisé en Réseaux & Sécurité.
 
-Le fichier ``primes.py`` contient :
+## À propos de moi
 
-- une fonction secondaire ``isprime()`` qui a pour but de vérifier si un entier est un nombre premier ou pas. 
-  
-  - elle prend en argument un nombre entier ``p`` ;
-  - et retourne un booléen exprimant la vérité de « ``p`` est un nombre premier ». 
-  
-- la fonction principale ``main()`` qui fait quelques appels à la fonction secondaire permettant de vérifier son bon fonctionnement .
+- 🎓 Élève ingénieur à ESIEE Paris
+- 🔐 Intéressé par la cybersécurité, les réseaux et les systèmes embarqués
+- 🌐 Passionné par les infrastructures réseau et les objets connectés
+- 🏥 Intérêt particulier pour la cybersécurité appliquée au domaine de la santé
+- 💻 Développement de projets IoT, web et embarqués
 
-## To do
+## Projet mis en avant
 
-1️⃣ Ecrire le code de la fonction secondaire.
+### FARO — Fire Area Risk Observatory
 
-2️⃣ Ecrire quelques appels à la fonction secondaire dans ``main()``.
+Système de détection précoce des feux de forêt combinant :
 
-3️⃣ Exécuter le programme depuis le terminal
+- IA embarquée
+- Réseau LoRa autonome
+- Capteurs environnementaux
+- Simulation de propagation
+- Interface web interactive
 
-    $ python primes.py
+🔗 Site du projet : [Lien GitHub FARO]
 
-4️⃣ Une fois le code fonctionnel, le soumettre aux tests unitaires. Le grade obtenu est le pourcentage de tests réussis. 
+## Technologies
 
-    $ pytest .python
+- Python
+- Java
+- C / C++
+- React
+- TypeScript
+- STM32
+- Linux
+- Git
+- Wireshark
+- Réseaux TCP/IP
 
-Si le grade n'est pas satisfaisant, répéter le cycle 1️⃣ 2️⃣ 3️⃣ 4️⃣
+## Contact
 
-5️⃣ Lorsque le grade est satisfaisant, s'intéresser à la [qualité du code](https://perso.esiee.fr/~courivad/python/chapters/16-style.html). Scorer cette qualité
+📧 valentin.poclet@edu.esiee.fr
 
-    $ pylint *.py
-
+📍 ESIEE Paris
 Si le score n'est pas maximal, répéter l'étape 5️⃣ en tenant compte des messages
 
 6️⃣ Lorsque le grade et le score ``pylint`` sont satisfaisants, pusher le travail pour évaluation
